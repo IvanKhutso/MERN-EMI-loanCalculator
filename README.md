@@ -3,6 +3,8 @@ This repository contains a loan management system(Reducing Balance Method to cal
 
 The client is built using ReactJS and Tailwind for styling. React Router v6.4 is used for routing, and the client sends fetch requests to the server to retrieve data. User information is stored in sessionStorage and is deleted when the user logs out or closes the tab.
 
+https://github.com/IvanKhutso/MERN-EMI-loanCalculator/assets/64652828/09f359ad-6e05-4a9a-921f-4b39e67f9c44
+
 # Getting Started
 To run the LOANS application, follow these steps:
 
